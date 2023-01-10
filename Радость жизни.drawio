@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T17:25:00.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6_PyyqDodB-Tkb1BqX9Z" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T17:33:39.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="afX_OZZKf3wmxZUuW2vz" version="20.6.0" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1102" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="21664" value="Отдых" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
           <mxGeometry x="428" y="501" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="21668" value="Человеческие взаимоотношения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
+        <mxCell id="21668" value="Общение" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
           <mxGeometry x="273" y="41" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="21669" value="Секс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
@@ -37,7 +37,10 @@
         <mxCell id="21671" value="Работа" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=18;fontColor=#23445D;" parent="21658" vertex="1">
           <mxGeometry x="28" y="241.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jlk7uXsd8rwkTmO7dJsj-21684" value="Радость Жизни" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Jlk7uXsd8rwkTmO7dJsj-21685" value="Жизнь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontColor=#FFFFFF;" vertex="1" parent="21658">
+          <mxGeometry x="266" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jlk7uXsd8rwkTmO7dJsj-21684" value="Сферы активности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="436" y="40" width="234" height="30" as="geometry" />
         </mxCell>
       </root>
